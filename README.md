@@ -1,4 +1,4 @@
-### Data Analysis Portfolio - Raj Rathod
+### Data Analysis Portfolio by Raj Rathod
 
 **Description:**
 This repository serves as a comprehensive portfolio showcasing a series of data analysis projects completed as part of a course or professional development journey. Each project explores different aspects of data analysis, ranging from exploratory data analysis (EDA) to advanced analytics techniques.
@@ -46,7 +46,7 @@ This repository serves as a comprehensive portfolio showcasing a series of data 
 **Additional Resources:**
 - [PDF Copy of Portfolio](https://drive.google.com/file/d/1TE-_0ZqdwH38mEtNEVzBC37wSbpz3wNh/view?usp=drive_link)
 - [PPT Presentation](https://docs.google.com/presentation/d/19Y7Jt1ukQQHzGbC5Krs2wMmwQykJBq0obyA4lR-H1sw/edit?usp=drive_link)
-- LinkedIn [Your LinkedIn Profile]([your_linkedin_profile](https://www.linkedin.com/in/rajrathod54321/))
+- LinkedIn: [Raj Rathod's LinkedIn Profile](https://www.linkedin.com/in/rajrathod54321/)
 - Email: rajr65037@gmail.com
 - GitHub: [@shraaj1](https://github.com/shraaj1)
 
